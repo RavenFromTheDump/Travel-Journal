@@ -135,6 +135,10 @@ picture {
     height: 250px;
     object-fit: cover;
   }
+
+  .card-text {
+    font-size: 14px;
+  }
 }
 
 @media (max-width: 500px) {
