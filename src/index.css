@@ -146,4 +146,8 @@ picture {
   .card-img {
     width: 100%;
   }
+
+  .card-text {
+    font-size: 14px;
+  }
 }
